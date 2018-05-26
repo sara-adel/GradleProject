@@ -1,0 +1,1 @@
+include ':app', ':backend', ':telljokes', ':telljokes_android'
